@@ -1,0 +1,103 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 3,
+    "analysis_type": "air",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.0",
+    "comment": "",
+    "commit": "da0ff7584917506fafffab3b298077a05d951268",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": 150.0,
+            "gain": 1
+        },
+        "CDD": {
+            "deflection": 110.0,
+            "gain": 1
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "L1": {
+            "deflection": 252.0,
+            "gain": 1
+        },
+        "L2": {
+            "deflection": 600.0,
+            "gain": 1
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "First thing in the morning",
+    "experiment_type": "Ar/Ar",
+    "extraction": "argus_Air_(no_split)_pump_to_Turbo.py",
+    "identifier": "a-01-A",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 1,
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "AX",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "Argus",
+    "material": "Gas",
+    "measurement": "argus_air.py",
+    "post_equilibration": "argus_pump_air_to_Turbo.py",
+    "post_measurement": "argus_pump_ms.py",
+    "principal_investigator": "UManLab",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Argus_air190",
+    "sample": "air",
+    "source": {
+        "emission": 485.264,
+        "trap": 198.483
+    },
+    "spec_sha": "586ff02645bff013753bd3b2d1be1196dc6ea7e3",
+    "timestamp": "2019-02-21T23:10:37.411764",
+    "tripped_conditional": null,
+    "username": "root",
+    "uuid": "ea056e94-a7df-4692-8f2a-f929f97957c0",
+    "whiff_result": null
+}
