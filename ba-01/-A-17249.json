@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "4a652e9fa0bc774a1cf5727b45ebb029d077f1cc",
+    "commit": "a5831b01b5ff85421ea65699d1a471856cd56b51",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -42,7 +42,7 @@
         "lab_pneumatics": [],
         "lab_temperatures": []
     },
-    "experiment_queue_name": "SH_bt_generic_9step_Pump_to_Turbo_01.",
+    "experiment_queue_name": "IDGeneric_Sanidine",
     "experiment_type": "Ar/Ar",
     "extraction": "argus_CO2_sample.py",
     "grainsize": "",
@@ -99,14 +99,14 @@
     "rlocation": "",
     "sample": "blank_air",
     "source": {
-        "emission": 390.011,
-        "trap": 198.818
+        "emission": 379.914,
+        "trap": 198.706
     },
     "spec_sha": "cc133be26557486f12984d0f226adb208a69733d",
-    "timestamp": "2020-02-23T05:24:34.009089",
+    "timestamp": "2020-09-09T06:48:00.118158",
     "tripped_conditional": null,
     "unit": null,
     "username": "root",
-    "uuid": "02325d3a-16c6-4464-8b15-6b9736c4622b",
+    "uuid": "2cf230a1-56f9-4ccf-b07e-22c3ef42b3cf",
     "whiff_result": null
 }
