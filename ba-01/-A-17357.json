@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "2e418f70a453214ecb0d74cbc1bf7ac550b2b311",
+    "commit": "ecec506440a10c860a8668b39f0b81c26a8c5a8c",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -42,7 +42,7 @@
         "lab_pneumatics": [],
         "lab_temperatures": []
     },
-    "experiment_queue_name": "SH_hbe_generic_12 step_mod_1",
+    "experiment_queue_name": "IDGeneric_Sanidine_2",
     "experiment_type": "Ar/Ar",
     "extraction": "argus_CO2_sample.py",
     "grainsize": "",
@@ -99,14 +99,14 @@
     "rlocation": "",
     "sample": "blank_air",
     "source": {
-        "emission": 390.863,
-        "trap": 198.595
+        "emission": 379.428,
+        "trap": 198.93
     },
-    "spec_sha": "cc133be26557486f12984d0f226adb208a69733d",
-    "timestamp": "2020-02-27T19:22:52.834406",
+    "spec_sha": "f7637a0efae5cc62c6be1f4d4dbf00903258e861",
+    "timestamp": "2020-09-21T15:01:58.745293",
     "tripped_conditional": null,
     "unit": null,
     "username": "root",
-    "uuid": "a213b25d-73c3-4113-a045-d389dac65b56",
+    "uuid": "0044a816-3c3a-40d0-8580-005a327cd8e9",
     "whiff_result": null
 }
