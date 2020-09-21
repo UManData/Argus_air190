@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "2e418f70a453214ecb0d74cbc1bf7ac550b2b311",
+    "commit": "bd6c9dfb06186379186d20bfa0654747de2907ad",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -42,9 +42,9 @@
         "lab_pneumatics": [],
         "lab_temperatures": []
     },
-    "experiment_queue_name": "SH_hbe_generic_12 step_mod_1",
+    "experiment_queue_name": "IDGeneric_Sanidine_2",
     "experiment_type": "Ar/Ar",
-    "extraction": "argus_Air_(no_split)_pump_to_Turbo.py",
+    "extraction": "argus_CO2_sample.py",
     "grainsize": "",
     "identifier": "ba-01-A",
     "increment": null,
@@ -89,8 +89,8 @@
     "longitude": null,
     "mass_spectrometer": "Argus",
     "material": "Blank",
-    "measurement": "argus_air.py",
-    "post_equilibration": "argus_pump_air_to_Turbo.py",
+    "measurement": "argus_blank.py",
+    "post_equilibration": "argus_pump_sample_to_turbo.py",
     "post_measurement": "argus_pump_ms.py",
     "principal_investigator": "UManLab",
     "project": "REFERENCES",
@@ -99,14 +99,14 @@
     "rlocation": "",
     "sample": "blank_air",
     "source": {
-        "emission": 391.106,
-        "trap": 198.595
+        "emission": 378.941,
+        "trap": 198.93
     },
-    "spec_sha": "28dd60c8615d38ba9122160f7b41a11079a65cdd",
-    "timestamp": "2020-02-27T18:35:50.909673",
+    "spec_sha": "cc133be26557486f12984d0f226adb208a69733d",
+    "timestamp": "2020-09-21T14:21:20.474054",
     "tripped_conditional": null,
     "unit": null,
     "username": "root",
-    "uuid": "a186baa9-d798-486c-8543-b332a5b91563",
+    "uuid": "d16beeaf-5a3f-46b5-87dc-b061dcb0fe70",
     "whiff_result": null
 }
