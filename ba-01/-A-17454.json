@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "2e418f70a453214ecb0d74cbc1bf7ac550b2b311",
+    "commit": "886dfac07c67e25b767b2a3c28a2bc0cfc309199",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -42,9 +42,9 @@
         "lab_pneumatics": [],
         "lab_temperatures": []
     },
-    "experiment_queue_name": "Load1",
+    "experiment_queue_name": "IDGeneric_mica3",
     "experiment_type": "Ar/Ar",
-    "extraction": "argus_CO2_sample.py",
+    "extraction": "argus_Air_(no_split)_pump_to_Turbo.py",
     "grainsize": "",
     "identifier": "ba-01-A",
     "increment": null,
@@ -89,8 +89,8 @@
     "longitude": null,
     "mass_spectrometer": "Argus",
     "material": "Blank",
-    "measurement": "argus_blank.py",
-    "post_equilibration": "argus_pump_sample_to_turbo.py",
+    "measurement": "argus_air.py",
+    "post_equilibration": "argus_pump_air_to_Turbo.py",
     "post_measurement": "argus_pump_ms.py",
     "principal_investigator": "UManLab",
     "project": "REFERENCES",
@@ -99,14 +99,14 @@
     "rlocation": "",
     "sample": "blank_air",
     "source": {
-        "emission": 390.863,
-        "trap": 198.706
+        "emission": 379.55,
+        "trap": 198.818
     },
-    "spec_sha": "cc133be26557486f12984d0f226adb208a69733d",
-    "timestamp": "2020-03-02T08:06:39.975389",
+    "spec_sha": "d564f8b3b82be2e11e226fa6b3e287343e316bb8",
+    "timestamp": "2020-09-28T08:45:44.037810",
     "tripped_conditional": null,
     "unit": null,
     "username": "root",
-    "uuid": "2bbc29c1-9c4f-4243-b5c9-94d91b2f34a7",
+    "uuid": "7e9c4674-118f-4ee9-82fe-12f45f7073ac",
     "whiff_result": null
 }
