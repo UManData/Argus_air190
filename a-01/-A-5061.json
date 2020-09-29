@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "2e418f70a453214ecb0d74cbc1bf7ac550b2b311",
+    "commit": "95027b80a98b72893857fa6e482d5e2326e9dd67",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -42,7 +42,7 @@
         "lab_pneumatics": [],
         "lab_temperatures": []
     },
-    "experiment_queue_name": "SH_bt_generic_9step_Pump_to_Turbo",
+    "experiment_queue_name": "IDGeneric_mica3",
     "experiment_type": "Ar/Ar",
     "extraction": "argus_Air_(no_split)_pump_to_Turbo.py",
     "grainsize": "",
@@ -99,14 +99,14 @@
     "rlocation": "",
     "sample": "air",
     "source": {
-        "emission": 390.498,
-        "trap": 198.93
+        "emission": 379.306,
+        "trap": 198.818
     },
-    "spec_sha": "b1ef1dfbe8f0894d68374da4a8ccf6d3d4ea17ff",
-    "timestamp": "2020-03-01T07:46:15.823548",
+    "spec_sha": "7efb8828acd565d8f70149504a136b8cf95c697e",
+    "timestamp": "2020-09-29T02:37:46.137448",
     "tripped_conditional": null,
     "unit": null,
     "username": "root",
-    "uuid": "0fab493f-d355-4394-a229-e2f0ad55e7e4",
+    "uuid": "1fb7c59c-4062-4f3a-899e-77de6f7b467f",
     "whiff_result": null
 }
