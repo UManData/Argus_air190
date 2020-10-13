@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.0",
     "comment": "",
-    "commit": "176b54cf0d6382ba1a6e54fe14306d03d5e55ec0",
+    "commit": "a8dbc36c9b7580ca06ed5da9e12d38e8f0c1b16c",
     "conditionals": null,
     "data_reduction_software": "pychron py3/18.2",
     "detectors": {
@@ -42,7 +42,7 @@
         "lab_pneumatics": [],
         "lab_temperatures": []
     },
-    "experiment_queue_name": "SH_hbe_generic_9 step_mod_1",
+    "experiment_queue_name": "IDGeneric_mica8",
     "experiment_type": "Ar/Ar",
     "extraction": "argus_CO2_sample.py",
     "grainsize": "",
@@ -99,14 +99,14 @@
     "rlocation": "",
     "sample": "blank_air",
     "source": {
-        "emission": 387.943,
-        "trap": 198.483
+        "emission": 378.698,
+        "trap": 199.042
     },
-    "spec_sha": "28dd60c8615d38ba9122160f7b41a11079a65cdd",
-    "timestamp": "2020-03-14T11:25:18.472179",
+    "spec_sha": "f4477c6548c8ab818aca710c956421414077a448",
+    "timestamp": "2020-10-13T03:09:36.898184",
     "tripped_conditional": null,
     "unit": null,
     "username": "root",
-    "uuid": "24a79607-5b15-45e2-aa83-49fe078e20f7",
+    "uuid": "02adae22-848b-4b7b-a2fc-4f700c9ce5f2",
     "whiff_result": null
 }
